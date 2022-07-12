@@ -20,4 +20,5 @@ To follow along with the coding part, please download data from 202106 to 202205
 <br>
 <br>
 If you have Tableau Desktop installed, please download workbook file (_Google_Cyclistic_Case_Study_Visuals.twb_) for more details. If not, please see dashboard below for reference<br>
+<br>
 <img width="1202" alt="Dashboard" src="https://user-images.githubusercontent.com/94335575/178443503-f07421f7-e525-4ab1-b0d1-8dff17245bff.png">
