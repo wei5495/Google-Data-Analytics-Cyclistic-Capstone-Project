@@ -11,7 +11,7 @@ Data visualization: Tableau & python <br>
 <br>
 _Spreadsheet is not used in this project as the dataset contains over 5M records_<br>
 <br>
-**Presentation:** <a href="https://docs.google.com/presentation/d/1Cc2qyCWEi9Ni_DDR7hpqm4Mu5uSljYK-L9plmqMKN_s/edit?usp=sharing" target="_blank">Google-Data-Analytics-Cyclistic-Capstone-Project</a>
+**Google slide:** <a href="https://docs.google.com/presentation/d/1Cc2qyCWEi9Ni_DDR7hpqm4Mu5uSljYK-L9plmqMKN_s/edit?usp=sharing" target="_blank">Google-Data-Analytics-Cyclistic-Capstone-Project</a>
 <br>
 **Data source:** Provided by Google [Download Data](https://divvy-tripdata.s3.amazonaws.com/index.html) <br>
 To follow along, please download data from 202106 to 202205, and start with the data cleaning.ipynb file
